@@ -1,0 +1,58 @@
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Assignment2 Applications Development.dll.config
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Assignment2 Applications Development.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Assignment2 Applications Development.pdb
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\WebForms_Basic.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Antlr3.Runtime.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\EntityFramework.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\EntityFramework.SqlServer.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Newtonsoft.Json.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Owin.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\System.Web.Optimization.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\System.Web.Providers.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\WebGrease.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\System.Web.Optimization.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Antlr3.Runtime.pdb
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Newtonsoft.Json.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\EntityFramework.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\EntityFramework.SqlServer.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\System.Web.Providers.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\CourseManager2.vbproj.AssemblyReference.cache
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\Assignment2_Applications_Development.Resources.resources
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\CourseManager2.vbproj.GenerateResource.cache
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\CourseManager2.vbproj.CoreCompileInputs.cache
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\CourseManager2.vbproj.CopyComplete
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\Assignment2 Applications Development.dll
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\WebForms_Basic.xml
+C:\Users\GermainWisdomManuel\Desktop\Assignment2 Applications Development\Assignment2 Applications Development\obj\Debug\Assignment2 Applications Development.pdb
